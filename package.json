@@ -9,8 +9,11 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "fs": "^0.0.1-security",
     "juice": "^11.0.1",
-    "nodemailer": "^6.10.1"
+    "mime-types": "^3.0.1",
+    "nodemailer": "^6.10.1",
+    "path": "^0.12.7"
   },
   "description": ""
 }
